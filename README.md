@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [kushalappa.pattada@gmail,.com](mailto:kushalappa.pattada@gmail,.com)
+* ✉️  You can contact me at [kushalappa.pattada@gmail,.com](mailto:kushalappa.pattada@gmail.com)
 
 <a href="https://www.github.com/TanishKushalappa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TanishKushalappa?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
